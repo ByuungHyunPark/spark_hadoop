@@ -1,4 +1,5 @@
 # Hadoop3.1.4 Single mode install
+- WSL2 Terminal (ubuntu20.0.4)
 - __참고 링크__ : https://data-flair.training/blogs/installation-of-hadoop-3-on-ubuntu/)
 -  [jdk 설치 (java SE 8)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
 
